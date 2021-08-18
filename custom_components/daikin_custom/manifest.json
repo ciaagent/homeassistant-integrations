@@ -1,5 +1,5 @@
 {
-  "domain": "daikin",
+  "domain": "daikincustom",
   "name": "Daikin AC Custom",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/daikin",
